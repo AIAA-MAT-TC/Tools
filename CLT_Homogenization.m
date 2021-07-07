@@ -1,5 +1,5 @@
 % =============================================== %
-% Composite homogenization using Composite Lamination Theory (CLT)
+% Composite homogenization using Classical Lamination Theory (CLT)
 % =============================================== %
 clear all;
 
