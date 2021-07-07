@@ -1,6 +1,5 @@
 % =============================================== %
 % Composite homogenization using Composite Lamination Theory (CLT)
-% Author: Paul Davidson, paul.davidson@uta.edu
 % =============================================== %
 clear all;
 
